@@ -1,0 +1,1 @@
+("6.8" ("f97efef6536854dd0f47e1af4ce624802fa443da" . "a61f8138aaf06d404ffac1e41224a985170f1c97") (collects #"errortrace" #"errortrace-key.rkt") (collects #"htdp" #"draw.rkt") (collects #"lang" #"posn.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
